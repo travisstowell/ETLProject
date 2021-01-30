@@ -30,7 +30,7 @@ This project contains two csv files which are all stored in the Datasets folder 
 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/depend.PNG "depend")
 
--Once the dependencies were imported,the csv files were read in the jupyter notebook using Pandas and two distinct dataframes were created in the notebook.
+-Once the dependencies were imported,the csv files were read in the jupyter notebook using Pandas and two distinct dataframes were created in the notebook. This was done for the Disney Plus and IMDB csv files.
 
 Disney Pluse Dataframe
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/disney_import.PNG "dataf")
@@ -38,16 +38,17 @@ Disney Pluse Dataframe
 IMBD Dataframe
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/imdb_import.PNG "dataf")
 
+#### Cleaning Process I
+The Disney Plus csv file originally had 18 columns and after a thorough cleanup, 8 columns were selected from the original dataset.
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/cleanup%20both.PNG "cleanup")
 
-This was done for the Disney Plus and IMDB csv files. 
+#### Cleaning Process II
 
+Disney Plus drop NAN values
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/rename%20disney.PNG "cleanup")
 
-
-
-
-
-#### Cleaning Process
-The Disney Plus csv file originally had 18 columns and after a thorought cleanup, 
+IMDB drop NAN values
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/rename%20disney.PNG "cleanup")
 
 #### Connection
 
