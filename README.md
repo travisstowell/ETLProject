@@ -4,7 +4,6 @@ ETL Project for Data Analytics BookCamp
 # ETL Project
 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/main/image/etl.png "etl")
-![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/Laboratory.jpg "Laboratory")
 
 ## Disney + : What's It Rated
 
