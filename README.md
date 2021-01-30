@@ -1,11 +1,8 @@
 # ETLProject
-ETL Project for Data Analytics BookCamp
-
-# ETL Project
-
-![alt text](https://github.com/travisstowell/ETLProject/blob/main/image/etl.png "etl")
 
 ## Disney + : What's It Rated
+
+![alt text](https://github.com/travisstowell/ETLProject/blob/main/image/etl.png "etl")
 
 ### Research 
 The data for this project was extracted from Kaggle which is a website which provides data on various topics depending on the users choice. https://www.kaggle.com/from 
