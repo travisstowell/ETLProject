@@ -29,7 +29,7 @@ This project focuses on Disney plus movies and the data provided can be broken d
 
 ### Jupyter Notebook
 
-#### Extraction 
+### Extraction 
 -The first step was to import our dependencies for the rest of the project 
 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/depend.PNG "depend")
@@ -42,20 +42,20 @@ Disney Pluse Dataframe
 IMBD Dataframe
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/imdb_import.PNG "dataf")
 
-#### Cleaning Process I
+### Cleaning Process I
 The Disney Plus csv file originally had 18 columns and after a thorough cleanup, 8 columns were selected from the original dataset 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/rename%20disney.PNG "cleanup")
 
-#### Cleaning Process II
+### Cleaning Process II
 NAN values were dropped from the datasets. For the IMDB dataframe the columns were renamed to facilitate the rest of the project.
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/cleanup%20both.PNG "cleanup")
 
-#### Connection
+### Connection
 A connection to the PostgreSQL
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/connection.PNG "cleanup")
 
 
-#### PostgreSQL
+### PostgreSQL
 Ater working with the datasets in jupyter notebook, a connection was made to the sql database were tables were created. 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/sql%20table.PNG "table")
 
