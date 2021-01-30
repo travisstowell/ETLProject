@@ -33,7 +33,6 @@ This project contains two csv files which are all stored in the Datasets folder 
 
 <img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="400" height="300" />
 
-<img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="400" height="300" />
 
 ### Jupyter Notebook
 
