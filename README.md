@@ -1,7 +1,13 @@
-=======
+
 # ETL Project
 
 ## Disney + : What's It Rated
+
+## Contributors
+
+* Travis Stowell
+* Claude Hanfou
+* Haifa Najdawi
 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/main/image/etl.png "etl")
 
