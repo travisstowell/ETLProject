@@ -4,7 +4,6 @@
 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/main/image/etl.png "etl")
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 
 ### Research 
@@ -16,8 +15,11 @@ The data for this project was extracted from Kaggle which is a website which pro
 * *Disney Plus Shows https://www.kaggle.com/unanimad/disney-plus-shows
 * *IMDB rating https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv
 
-<iframe src="https://giphy.com/embed/T9KcDBkWHrWJLF2l5Q" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disney-plus-T9KcDBkWHrWJLF2l5Q">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
+
+<img src="https://tenor.com/view/disney-plus-pixar-star-wars-marvel-gif-16127548 width="70" height="70" />
+https://tenor.com/view/disney-plus-pixar-star-wars-marvel-gif-16127548
 
 ### Jupyter Notebook
 
