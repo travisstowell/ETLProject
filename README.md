@@ -32,6 +32,13 @@ This project contains two csv files which are all stored in the Datasets folder 
 
 -Once the dependencies were imported,the csv files were read in the jupyter notebook using Pandas and two distinct dataframes were created in the notebook.
 
+Disney Pluse Dataframe
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/disney_import.PNG "dataf")
+
+IMBD Dataframe
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/imdb_import.PNG "dataf")
+
+
 This was done for the Disney Plus and IMDB csv files. 
 
 
