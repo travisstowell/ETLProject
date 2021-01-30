@@ -4,7 +4,7 @@ imdb_id INT PRIMARY KEY,
 title TEXT,
 type TEXT,
 rated TEXT,
-year INT
+year INT,
 genre TEXT
 );
 
@@ -19,7 +19,7 @@ FemalesAllAgesVote INT,
 FemalesAvgVote0_18 INT,
 FemalesAvgVote18_30 INT,
 FemalesAvgVote30_45 INT,
-FemalesAvgVote40_Above INT,
+FemalesAvgVote40_Above INT
 );
 
 
