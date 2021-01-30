@@ -4,22 +4,22 @@ imdb_id VARCHAR PRIMARY KEY,
 title TEXT,
 type TEXT,
 rated TEXT,
-year INT,
+year VARCHAR,
 genre TEXT
 );
 
 CREATE TABLE imdb_ratings (
 imdb_title_id VARCHAR PRIMARY KEY,
-MaleAllAgesVote INT,
-MaleAvgVote0_18 INT,
-MaleAvgVote18_30 INT,
-MaleAvgVote30_45 INT,
-MaleAvgVote40_Above INT,
-FemalesAllAgesVote INT,
-FemalesAvgVote0_18 INT,
-FemalesAvgVote18_30 INT,
-FemalesAvgVote30_45 INT,
-FemalesAvgVote40_Above INT
+male_allages_vote INT,
+male_avg_vote_0_18 INT,
+male_avg_vote_18_30 INT,
+male_avg_vote_30_45 INT,
+male_avg_vote_40_above INT,
+females_allages_vote INT,
+females_avg_vote_0_18 INT,
+females_avg_vote_18_30 INT,
+females_avg_vote_30_45 INT,
+females_avg_vote_40_above INT
 );
 
 
