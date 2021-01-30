@@ -15,7 +15,7 @@ The data for this project was extracted from Kaggle which is a website which pro
 * *Disney Plus Shows https://www.kaggle.com/unanimad/disney-plus-shows
 * *IMDB rating https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv
 
-<img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="500" height="500" />
+<img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="400" height="300" />
 
 ### Jupyter Notebook
 
