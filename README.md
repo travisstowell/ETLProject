@@ -52,13 +52,9 @@ The Disney Plus csv file originally had 18 columns and after a thorough cleanup,
 NAN values were dropped from the datasets. For the IMDB dataframe the columns were renamed to facilitate the rest of the project.
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/cleanup%20both.PNG "cleanup")
 
-
-
-
-
-
 #### Connection
-
+A connection to the PostgreSQL
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/connection.PNG "cleanup")
 
  
 
