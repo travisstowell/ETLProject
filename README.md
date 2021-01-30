@@ -45,16 +45,17 @@ IMBD Dataframe
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/imdb_import.PNG "dataf")
 
 #### Cleaning Process I
-The Disney Plus csv file originally had 18 columns and after a thorough cleanup, 8 columns were selected from the original dataset and NAN values were dropped. For the IMDB dataframe the columns were renamed to facilitate the rest of the project.
-
+The Disney Plus csv file originally had 18 columns and after a thorough cleanup, 8 columns were selected from the original dataset 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/cleanup%20both.PNG "cleanup")
 
 #### Cleaning Process II
+NAN values were dropped from the datasets. For the IMDB dataframe the columns were renamed to facilitate the rest of the project.
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/cleanup%20both.PNG "cleanup")
 
-![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/rename%20disney.PNG "cleanup")
 
 
-![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/rename%20disney.PNG "cleanup")
+
+
 
 #### Connection
 
