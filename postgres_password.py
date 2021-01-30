@@ -1,2 +1,2 @@
 
-pass_word ="karemeleen"
+pass_word ="your password"
