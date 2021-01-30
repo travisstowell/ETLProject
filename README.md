@@ -28,6 +28,8 @@ This project contains two csv files which are all stored in the Datasets folder 
 #### Extraction 
 -The first step was to import our dependencies for the rest of the project 
 
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/depend.PNG "depend")
+
 -Once the dependencies were imported,the csv files were read in the jupyter notebook using Pandas and two distinct dataframes were created in the notebook.
 
 This was done for the Disney Plus and IMDB csv files. 
