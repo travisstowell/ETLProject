@@ -17,6 +17,7 @@ The data for this project was extracted from Kaggle which is a website which pro
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
+<img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="40" height="40" />
 
 <img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif width="40" height="40" />
 
