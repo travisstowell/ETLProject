@@ -17,7 +17,7 @@ The data for this project was extracted from Kaggle which is a website which pro
 
 <img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="400" height="300" />
 
-### *Jupyter Notebook
+### Jupyter Notebook
 
 #### Extraction 
 -The first step was to import our dependencies for the rest of the project 
@@ -35,4 +35,4 @@ The Disney Plus csv file originally had 18 columns and after a thorought cleanup
 
  
 
-#### *PostgreSQL
+#### PostgreSQL
