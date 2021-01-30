@@ -1,5 +1,6 @@
 -- Create tables for raw data to be loaded into
 CREATE TABLE disney_plus_info (
+
 imdb_id VARCHAR PRIMARY KEY,
 title TEXT,
 type TEXT,
