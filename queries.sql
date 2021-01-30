@@ -3,6 +3,7 @@ DROP TABLE IF EXISTS disney_plus_info;
 DROP TABLE IF EXISTS imdb_ratings;
 
 CREATE TABLE disney_plus_info (
+
 imdb_id VARCHAR PRIMARY KEY,
 title TEXT,
 type TEXT,
@@ -24,6 +25,7 @@ females_avg_vote_18_30 numeric,
 females_avg_vote_30_45 numeric,
 females_avg_vote_45_above numeric
 	
+
 );
 
 
