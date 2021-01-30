@@ -21,8 +21,9 @@ The data for this project was extracted from Kaggle which is a website which pro
 
 * Disney Plus Shows https://www.kaggle.com/unanimad/disney-plus-shows
 * IMDB rating https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv
+https://media.giphy.com/media/3oFzlYy99qccyIVPDa/giphy.gif
 
-<img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="400" height="300" />
+<img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="300" height="300" /> <img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="300" height="300" /> 
 
 This project focuses on Disney plus movies and the data provided can be broken down into various categories. For the Disney plus data, the following information were extracted from the dataset: imdb_id,Title, Type,Rating,Year and Genre. On the IMDB dataset, the information extracted were as follows: the IMDB id and various columns for the male and female age range 0-45+
 
