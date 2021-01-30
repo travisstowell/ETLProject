@@ -4,7 +4,7 @@ imdb_id VARCHAR PRIMARY KEY,
 title TEXT,
 type TEXT,
 rated TEXT,
-year INT,
+year VARCHAR,
 genre TEXT
 );
 
