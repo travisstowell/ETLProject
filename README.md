@@ -15,14 +15,14 @@ The data for this project was extracted from Kaggle which is a website which pro
 * *Disney Plus Shows https://www.kaggle.com/unanimad/disney-plus-shows
 * *IMDB rating https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv
 
-<img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="1200" height="1200" />
+<img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="500" height="500" />
 
 ### Jupyter Notebook
 
 #### Extraction 
 -The first step was to import our dependencies for the rest of the project 
 
-![alt text](https://github.com/travisstowell/ETLProject/blob/main/image/etl.png "etl")
+
 
 
 The two csv files were downloaded from the Kaggle website and then analysed. 
