@@ -10,12 +10,12 @@ genre TEXT
 
 CREATE TABLE imdb_ratings (
 imdb_title_id VARCHAR PRIMARY KEY,
-maleallagesvote INT,
+male_allages_vote INT,
 male_avg_vote_0_18 INT,
 male_avg_vote_18_30 INT,
 male_avg_vote_30_45 INT,
 male_avg_vote_40_above INT,
-femalesallgesvote INT,
+females_allages_vote INT,
 females_avg_vote_0_18 INT,
 females_avg_vote_18_30 INT,
 females_avg_vote_30_45 INT,
