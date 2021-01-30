@@ -1,6 +1,6 @@
 -- Create tables for raw data to be loaded into
 CREATE TABLE disney_plus_info (
-imdb_id INT PRIMARY KEY,
+imdb_id TEXT PRIMARY KEY,
 title TEXT,
 type TEXT,
 rated TEXT,
@@ -9,7 +9,7 @@ genre TEXT
 );
 
 CREATE TABLE imdb_ratings (
-imdb_title_id INT PRIMARY KEY,
+imdb_title_id TEXT PRIMARY KEY,
 MaleAllAgesVote INT,
 MaleAvgVote0_18 INT,
 MaleAvgVote18_30 INT,
