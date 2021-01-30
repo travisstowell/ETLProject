@@ -1,2 +1,2 @@
 
-pass_word ="your postgres password"
+pass_word ="your password"
