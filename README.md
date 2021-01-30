@@ -18,8 +18,8 @@ The data for this project was extracted from Kaggle which is a website which pro
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 
-<img src="https://tenor.com/view/disney-plus-pixar-star-wars-marvel-gif-16127548 width="70" height="70" />
-https://tenor.com/view/disney-plus-pixar-star-wars-marvel-gif-16127548
+<img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif width="70" height="70" />
+
 
 ### Jupyter Notebook
 
