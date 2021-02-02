@@ -25,7 +25,7 @@ https://media.giphy.com/media/3oFzlYy99qccyIVPDa/giphy.gif
 
 <img src="https://media.giphy.com/media/8bafPvbPipLWkKFFBV/giphy.gif" width="200" height="200" />       <img src="https://media.giphy.com/media/3oFzlYy99qccyIVPDa/giphy.gif" width="200" height="200" /> 
 
-This project focuses on Disney plus movies and the data provided can be broken down into various categories. For the Disney plus data, the following information were extracted from the dataset: imdb_id,Title, Type,Rating,Year and Genre. On the IMDB dataset, the information extracted were as follows: the IMDB id and various columns for the male and female ratings. The male and female ratings were divided in vat=rious age groups going from age 0 to age 45 and above.
+This project focuses on Disney plus movies and the data provided can be broken down into various categories. For the Disney plus data, the following information were extracted from the dataset: imdb_id,Title, Type,Rating,Year and Genre. On the IMDB dataset, the information extracted were as follows: the IMDB id and various columns for the male and female ratings. The male and female ratings were divided in various age groups going from age 0 to age 45 and above.
 
 ### Jupyter Notebook
 
@@ -36,19 +36,19 @@ This project focuses on Disney plus movies and the data provided can be broken d
 
 -Once the dependencies were imported,the csv files were read in the jupyter notebook using Pandas and two distinct dataframes were created in the notebook. This was done for the Disney Plus and IMDB csv files.
 
-Disney Pluse Dataframe
+Disney Plus Dataframe
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/disney_import.PNG "dataf")
 
 IMBD Dataframe
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/imdb_import.PNG "dataf")
 
 ### Cleaning Process I
-The Disney Plus csv file originally had 18 columns and after a thorough cleanup, 8 columns were selected from the original dataset for the rest of the project. These columns were not renamed as they suited the needs of the project and the unwanted columns were left out when creating the dataframe. The pandas read method was used to read the csv file in the jupyter notebook
+The Disney Plus csv file originally had 18 columns and after a thorough cleanup, 8 columns were selected from the original dataset for the rest of the project. These columns were not renamed as they suited the needs of the project and the unwanted columns were left out when creating the dataframe. The pandas read method was used to above read the csv file in the jupyter notebook
 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/rename%20disney.PNG "cleanup")
 
 ### Cleaning Process II
-NAN values were dropped from the Disney Plus and IMDB datasets, which reduced the number of rows left to work with.  For the IMDB dataframe the columns names did not match our expectiom, so they were renamed were renamed to make them easier to work with
+NAN values were dropped from the Disney Plus and IMDB datasets, which reduced the number of rows left to work with.  For the IMDB dataframe the columns names did not match our expectiom, so they were renamed to make them easier to work with
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/cleanup%20both.PNG "cleanup")
 
 ### Connection
