@@ -58,5 +58,6 @@ A connection to the PostgreSQL
 
 ### PostgreSQL
 Ater working with the datasets in jupyter notebook, a connection was made to the sql database were tables were created. 
+
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/sql%20table.PNG "table")
 
