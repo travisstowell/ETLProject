@@ -71,7 +71,7 @@ NAN values were dropped from the Disney Plus and IMDB datasets, which reduced th
 Ater working with the datasets in jupyter notebook, a connection was made to the sql database were tables were created. 
 
 The below ERD table shows that the Disney Plus and IMDB tables are one to one relation.
-![alt text](https://github.com/travisstowell/ETLProject/blob/main/image/Capture.PNG"table")
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/Capture.PNG"table")
 
 Two tables were created and joined on IMDB ID to later create a single table that contains all the iformation. 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/sql%20table.PNG "table")
