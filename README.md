@@ -55,10 +55,15 @@ NAN values were dropped from the Disney Plus and IMDB datasets, which reduced th
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/cleanup%20both.PNG "cleanup")
 
 ### Connection
-A connection to the PostgreSQL
+* A connection to the PostgreSQL
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/connection.PNG "cleanup")
 
+* The next step is to confirm was made by checking tables 
 
+
+* Use pandas to load the csv file converted Dataframe in to the database
+
+* Confirm the data was successfully loaded by viewing the dataframes.
 
 ## Load 
 ---
