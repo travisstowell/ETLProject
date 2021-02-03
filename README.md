@@ -72,7 +72,7 @@ Ater working with the datasets in jupyter notebook, a connection was made to the
 
 The below ERD table shows that the Disney Plus and IMDB tables are one to one relation.
 
-<img src="https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/Capture.PNG " alt="table" width="400" height="400"/>
+<img src="https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/Capture.PNG " alt="table" width="600" height="400"/>
 
 
 Two tables were created and joined on IMDB ID to later create a single table that contains all the iformation. 
