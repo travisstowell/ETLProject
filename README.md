@@ -62,8 +62,6 @@ NAN values were dropped from the Disney Plus and IMDB datasets, which reduced th
 
 ### Connection
 
-A connection to the PostgreSQL
-=======
 * A connection to the PostgreSQL
 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/connection.PNG "cleanup")
