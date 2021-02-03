@@ -27,9 +27,13 @@ https://media.giphy.com/media/3oFzlYy99qccyIVPDa/giphy.gif
 
 This project focuses on Disney plus movies and the data provided can be broken down into various categories. For the Disney plus data, the following information were extracted from the dataset: imdb_id,Title, Type,Rating,Year and Genre. On the IMDB dataset, the information extracted were as follows: the IMDB id and various columns for the male and female ratings. The male and female ratings were divided in various age groups going from age 0 to age 45 and above.
 
+## Extract
+---
 ### Jupyter Notebook
 
+
 ### Extraction 
+
 -The first step was to import our dependencies for the rest of the project 
 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/depend.PNG "depend")
@@ -42,6 +46,11 @@ Disney Plus Dataframe
 IMBD Dataframe
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/imdb_import.PNG "dataf")
 
+
+
+## Tranform
+---
+
 ### Cleaning Process I
 The Disney Plus csv file originally had 18 columns and after a thorough cleanup, 8 columns were selected from the original dataset for the rest of the project. These columns were not renamed as they suited the needs of the project and the unwanted columns were left out when creating the dataframe. The pandas read method was used to above read the csv file in the jupyter notebook
 
@@ -52,12 +61,34 @@ NAN values were dropped from the Disney Plus and IMDB datasets, which reduced th
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/cleanup%20both.PNG "cleanup")
 
 ### Connection
+
 A connection to the PostgreSQL
+=======
+* A connection to the PostgreSQL
+
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/connection.PNG "cleanup")
 
+* The next step is to confirm a connection was made by checking tables 
+* Use pandas to load the csv file converted Dataframe into the database
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/check%20tables.PNG "cleanup")
+
+* Confirm the data was successfully loaded by viewing the dataframes.
+![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/confirm%20data.PNG "cleanup")
+
+## Load 
+---
+### PostgreSQL
+Ater working with the datasets in jupyter notebook, a connection was made to the sql database were tables were created. 
+
+The below ERD table shows that the Disney Plus and IMDB tables are one to one relation.
+
+<img src="https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/Capture.PNG " alt="table" width="600" height="600"/>
 
 ### PostgreSQL
 Ater working with the datasets in jupyter notebook, a connection was made to the sql database were tables were created. 
+
+
+Two tables were created and joined on IMDB ID to later create a single table that contains all the iformation. 
 
 ![alt text](https://github.com/travisstowell/ETLProject/blob/ClaudeBranch/image/sql%20table.PNG "table")
 
