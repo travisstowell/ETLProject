@@ -25,6 +25,7 @@ females_avg_vote_18_30 numeric,
 females_avg_vote_30_45 numeric,
 females_avg_vote_45_above numeric
 	
+
 );
 
 
